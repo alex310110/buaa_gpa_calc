@@ -13,11 +13,11 @@ Just use python 3 to run bgc.py like this:
 
 input file format:
 
-credit score(integer/A/B/C/F/P/N) "course name A"
+    credit score(integer/A/B/C/F/P/N) "course name A"
 
-credit score(integer/A/B/C/F/P/N) "course name B"
+    credit score(integer/A/B/C/F/P/N) "course name B"
 
-...
+    ...
 
 
 GPA fomula of Beihang University:
@@ -47,11 +47,11 @@ GPA fomula of Beihang University:
 
 输入文件格式:
 
-credit score(integer/A/B/C/F/P/N) "course name A"
+    credit score(integer/A/B/C/F/P/N) "course name A"
 
-credit score(integer/A/B/C/F/P/N) "course name B"
+    credit score(integer/A/B/C/F/P/N) "course name B"
 
-...
+    ...
 
 
 北航GPA公式:
