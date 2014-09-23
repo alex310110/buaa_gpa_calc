@@ -1,14 +1,14 @@
 buaa_gpa_calc
 =============
 
-A GPA calculator of Beihang University.
+A GPA calculator for Beihang University.
 
 
 Just use python 3 to run bgc.py like this:
 
-"python bgc.py test.txt"
+    "python bgc.py test.txt"
 
-(Replace text.txt with your own file)
+    (Replace test.txt with your own file)
 
 
 input file format:
@@ -34,15 +34,18 @@ GPA fomula of Beihang University:
     
     N: 0-59  No Pass   (0)
     
-    
-    
+
+
+
+
+
 一个北京航空航天大学GPA的计算器
 
 只要用python3运行bgc.py像这样就可以了:
 
-"python bgc.py test.txt"
+    "python bgc.py test.txt"
 
-(把text.txt替换成你自己的文件)
+    (把test.txt替换成你自己的文件)
 
 
 输入文件格式:

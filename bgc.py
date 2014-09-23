@@ -27,8 +27,9 @@ SOFTWARE.
 
 Created on Sep 22, 2014
 
+A GPA calculator for Beihang University.
+just call "python bgc.py test.txt" (Replace test.txt with your own file)
 The only module.
-just call "python bgc.py test.txt" (Replace text.txt with your own file)
 
 @author: Windy Darian
 '''
