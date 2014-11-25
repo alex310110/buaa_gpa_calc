@@ -94,7 +94,7 @@ def calc_gpa(file_name, encoding = 'utf-8'):
     return gpa
 
 if __name__ == '__main__':
-    calc_gpa(sys.argv[1] if len(sys.argv) > 1 else input(prompt = "Score file name: "))
+    calc_gpa(sys.argv[1] if len(sys.argv) > 1 else input("Score file name: "))
     
     
     
