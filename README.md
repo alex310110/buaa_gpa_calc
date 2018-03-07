@@ -1,12 +1,12 @@
-buaa_gpa_calc
+sjtu_gpa_calc
 =============
 
-A GPA calculator for Beihang University.
+A GPA calculator for Shanghai Jiao Tong University.
 
 
-Just use python 3 to run bgc.py like this:
+Just use python 3 to run sjtu_gpa_calc.py like this:
 
-    "python bgc.py test.txt"
+    "python sjtu_gpa_calc.py test.txt"
 
     (Replace test.txt with your own file)
 
@@ -20,30 +20,42 @@ input file format:
     ...
 
 
-GPA fomula of Beihang University:
+GPA fomula of Shanghai Jiao Tong University:
 
-    A:85-100 Excellent (4)
+    A+ 95-100 4.3
     
-    B:70-84  Good      (3)
+    A  90-94  4.0
     
-    C:60-69  Average   (2)
+    A- 85-89  3.7
     
-    F: 0-59  Fail      (0)
+    B+ 80-84  3.3
     
-    P:60-100 Pass      (3.3)
+    B  75-79  3.0
     
-    N: 0-59  No Pass   (0)
+    B- 70-74  2.7
     
+    C+ 67-69  2.3
+    
+    C  65-66  2.0
+    
+    C- 62-64  1.7
+    
+    D  60-61  1.0
+    
+    F  0-60   0.0
+    
+    P         3.3
+    
+    N         0.0
 
 
 
 
+一个上海交通大学GPA的计算器
 
-一个北京航空航天大学GPA的计算器
+只要用python3运行sjtu_gpa_calc.py像这样就可以了:
 
-只要用python3运行bgc.py像这样就可以了:
-
-    "python bgc.py test.txt"
+    "python sjtu_gpa_calc.py test.txt"
 
     (把test.txt替换成你自己的文件)
 
@@ -57,19 +69,30 @@ GPA fomula of Beihang University:
     ...
 
 
-北航GPA公式:
+上海交通大学GPA公式:
 
-    A:85-100 优秀 (4)
+    A+ 95-100 4.3
     
-    B:70-84  良好      (3)
+    A  90-94  4.0
     
-    C:60-69  中等   (2)
+    A- 85-89  3.7
     
-    F: 0-59  不及格      (0)
+    B+ 80-84  3.3
     
-    P:60-100 通过      (3.3)
+    B  75-79  3.0
     
-    N: 0-59  不通过   (0)
+    B- 70-74  2.7
     
+    C+ 67-69  2.3
     
+    C  65-66  2.0
     
+    C- 62-64  1.7
+    
+    D  60-61  1.0
+    
+    F  0-60   0.0
+    
+    P         3.3
+    
+    N         0.0
